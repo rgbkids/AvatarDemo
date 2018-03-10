@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/wHiteRabbiTEW.cs">
+    <Files>
+      <File FileName="Assets/Uniduino/Scripts/Arduino.Firmata.cs" Line="80" Column="1" />
+      <File FileName="Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/AboutEW.cs" Line="21" Column="19" />
+      <File FileName="Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/wHiteRabbiTEW.cs" Line="22" Column="19" />
+      <File FileName="Assets/Uniduino/Editor/UniduinoSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets/WR_wHiteRabbiT-sTudio/WRFramework/Unity/Editor/Tools/ContinuationManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
